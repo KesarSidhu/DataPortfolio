@@ -1,11 +1,11 @@
 # Kesar's Data Portfolio
 
 Table of Contents
-- Excel
-- Python
-- SQL
-- Tableau
-- R
+- [Excel](#Excel)
+- [Python](#Python)
+- [SQL](#SQL)
+- [Tableau](#Tableau)
+- [R](#R)
 
 # Excel
 | Project Link | Completion Date | Project Description |
