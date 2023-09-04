@@ -8,29 +8,29 @@ Table of Contents
 - [R](#R)
 
 # Excel
-| Project Link | Completion Date | Area of Analysis | Project Description |
+| Project Link | Scope of Analysis | Completion Data | Project Summary |
 |---| ---|---|---|
 
 ***
 
 # Python
-| Project Link | Completion Date | Area of Analysis | Project Description |
+| Project Link | Scope of Analysis | Completion Data | Project Summary |
 |---| ---|---|---|
 
 ***
 
 # SQL
-| Project Link | Completion Date | Area of Analysis | Project Description |
+| Project Link | Scope of Analysis | Completion Data | Project Summary |
 |---| ---|---|---|
 
 ***
 
 # Tableau
-| Project Link | Completion Date | Area of Analysis | Project Description |
+| Project Link | Scope of Analysis | Completion Data | Project Summary |
 |---| ---|---|---|
 
 ***
 
 # R
-| Project Link | Completion Date | Area of Analysis | Project Description |
+| Project Link | Scope of Analysis | Completion Data | Project Summary |
 |---| ---|---|---|
