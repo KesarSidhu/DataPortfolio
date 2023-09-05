@@ -1,5 +1,7 @@
 # 📊 Kesar's Data Portfolio
 
+Welcome to my Data Portfolio, an organized summary of diverse data projects created using different analytical tools. To explore a specific project, simply click on the project link.
+
 📄 Table of Contents
 - [Excel](#Excel)
 - [Python](#Python)
