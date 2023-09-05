@@ -1,6 +1,6 @@
 # 📊 Kesar's Data Portfolio
 
-📑 Table of Contents
+📄 Table of Contents
 - [Excel](#Excel)
 - [Python](#Python)
 - [SQL](#SQL)
