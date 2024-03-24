@@ -11,7 +11,7 @@ Welcome to my Data Portfolio, an organized summary of diverse data projects crea
 # Python
 | Project Link | Scope of Analysis | Completion Data | Project Summary |
 |---| ---|---|---|
-|[NBA Finals EDA: Championships vs Runner-Ups](https://github.com/KesarSidhu/DataProjects/tree/main/R/NBA%20Finals%20EDA%20Championships%20vs%20Runner-Ups) | Data Cleaning, Wrangling, Visualization | January 2024 | Study the changing play styles of NBA Championship teams and explore how home-court advantage affects team performances.
+
 
 ***
 
@@ -30,3 +30,4 @@ Welcome to my Data Portfolio, an organized summary of diverse data projects crea
 # R
 | Project Link | Scope of Analysis | Completion Data | Project Summary |
 |---| ---|---|---|
+|[NBA Finals EDA: Championships vs Runner-Ups](https://github.com/KesarSidhu/DataProjects/tree/main/R/NBA%20Finals%20EDA%20Championships%20vs%20Runner-Ups) | EDA - Data Cleaning, Wrangling, and Visualization | January 2024 | Study the changing play styles of NBA Championship teams and explore how home-court advantage affects team performances.
