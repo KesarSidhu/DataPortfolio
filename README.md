@@ -11,7 +11,7 @@ Welcome to my Data Portfolio, an organized summary of diverse data projects crea
 # Python
 | Project Link | Scope of Analysis | Completion Data | Project Summary |
 |---| ---|---|---|
-| 🦠 [Skin Cancer Detection ML Model]([https://github.com/srilakshmipanda/GDSC-Link](https://github.com/KesarSidhu/DataProjects/tree/main/Python/Skin%20Cancer%20Detection%20ML%20Model) | Data Preparation, Data Preprocessing/Cleaning, EDA, Machine Learning, Front-end Programming | Present (Estimated Completion: 6/1/24) | Developed a skin cancer detection model in Python using TensorFlow and Scikit-Learn, powered by ResNet50, capable of identifying cancerous skin lesions and the specific type of cancer (detects 6 types). |
+| 🦠 [Skin Cancer Detection ML Model](https://github.com/KesarSidhu/DataProjects/tree/main/Python/Skin%20Cancer%20Detection%20ML%20Model) | Data Preparation, Data Preprocessing/Cleaning, EDA, Machine Learning, Front-end Programming | Present (Estimated Completion: 6/1/24) | Developed a skin cancer detection model in Python using TensorFlow and Scikit-Learn, powered by ResNet50, capable of identifying cancerous skin lesions and the specific type of cancer (detects 6 types). |
 
 
 ***
